@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassLongStringFromClient", "PassLongStringFromClient.csproj", "{068D05DB-4BB1-4C55-A00D-6EB3DA929AA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{068D05DB-4BB1-4C55-A00D-6EB3DA929AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068D05DB-4BB1-4C55-A00D-6EB3DA929AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068D05DB-4BB1-4C55-A00D-6EB3DA929AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068D05DB-4BB1-4C55-A00D-6EB3DA929AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {865F4ADE-5C77-4A92-A507-574F51BE2C86}
+	EndGlobalSection
+EndGlobal
